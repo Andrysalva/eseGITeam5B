@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/eseGITeam5B.iml" filepath="$PROJECT_DIR$/.idea/eseGITeam5B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/eseGITeam5B.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/eseGITeam5B.app.iml" />
     </modules>
   </component>
 </project>
